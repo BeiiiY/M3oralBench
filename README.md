@@ -9,7 +9,7 @@
 An overview of the entire pipeline for the construction of M³oralBench is as follows:
 
 <p align="center">
-    <img src="https://github.com/HQHBench/M3oralBench/blob/main/figures/pipeline.jpg" width="800" />
+    <img src="https://github.com/BeiiiY/M3oralBench/blob/main/Figures/pipeline.jpg" width="800" />
 </p>
 
 #### Data
@@ -37,25 +37,25 @@ where `id` refers to the data id in M³oralBench, `image` refers to the image pa
 #### Leaderboard
 
 <p align="center">
-    <img src="https://github.com/HQHBench/M3oralBench/blob/main/figures/leaderboard.png" width="800" />
+    <img src="https://github.com/BeiiiY/M3oralBench/blob/main/Figures/leaderboard.png" width="800" />
 </p>
 
 <p align="center">
-    <img src="https://github.com/HQHBench/M3oralBench/blob/main/figures/rada.jpg" width="800" />
+    <img src="https://github.com/BeiiiY/M3oralBench/blob/main/Figures/rada.jpg" width="800" />
 </p>
 
 #### Examples
 
 <p align="center">
-    <img src="https://github.com/HQHBench/M3oralBench/blob/main/figures/example1.jpg" width="800" />
+    <img src="https://github.com/BeiiiY/M3oralBench/blob/main/Figures/example1.jpg" width="800" />
 </p>
 
 <p align="center">
-    <img src="https://github.com/HQHBench/M3oralBench/blob/main/figures/example2.jpg" width="800" />
+    <img src="https://github.com/BeiiiY/M3oralBench/blob/main/Figures/example2.jpg" width="800" />
 </p>
 
 <p align="center">
-    <img src="https://github.com/HQHBench/M3oralBench/blob/main/figures/example3.jpg" width="800" />
+    <img src="https://github.com/BeiiiY/M3oralBench/blob/main/Figures/example3.jpg" width="800" />
 </p>
 
 #### Related Projects & Papers
